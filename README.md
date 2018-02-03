@@ -1,13 +1,5 @@
-# esx_slotmachine FROM ENVYYYYYYYYY (i don't know how many "y" he have ahah) from ESX-Discord. Thanks to him
+# esx_slotmachine
 FXServer esx_slotmachine
-
-By deafult the slots takes clean money, if you want it to take black money
-
-Go in server.lua and remove "--" on line 12 and 24
-
-Remember to put "--" on line 11 and 23
-
-Only if you change it to black money
 
 [INSTALLATION]
 
