@@ -11,9 +11,9 @@ local EmojiList = {
 }
 local price = {}
 price.line3 = {
-	cherry = 200,
-	lemon = 150,
-	other = 100
+	cherry = 20,
+	lemon = 15,
+	other = 10
 }
 price.line2 = {
 	cherry = 50,
