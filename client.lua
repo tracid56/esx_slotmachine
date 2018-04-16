@@ -16,8 +16,8 @@ price.line3 = {
 	other = 10
 }
 price.line2 = {
-	cherry = 50,
-	other = 20
+	cherry = 5,
+	other = 2
 }
 
 
